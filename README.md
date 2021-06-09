@@ -1,1 +1,1 @@
-# Virtual-Pet2--c36-whitehat-junior
+# Virtual-pet-2-c36
